@@ -1,2 +1,2 @@
 # MLS2021
-This repo is for University course assignment submission. Select the branch to see.
+This repo is for University course assignment submission. Checkout other branches from above dropdown to see.
